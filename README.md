@@ -42,7 +42,7 @@ This project is a Hand Gesture Drawing App using OpenCV, Mediapipe, and Numpy. I
 
 ## Example
 
-![Hand Gesture Drawing App](drawing_app_example.png)
+![Hand Gesture Drawing App](https://github.com/Raufjatoi/Hand-Gesture-Drawing-App/blob/main/Screenshot%202024-06-25%20080234.png)
 
 ## License
 
