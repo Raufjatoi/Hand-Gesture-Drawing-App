@@ -14,8 +14,8 @@ This project is a Hand Gesture Drawing App using OpenCV, Mediapipe, and Numpy. I
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hand-gesture-drawing-app.git
-    cd hand-gesture-drawing-app
+    git clone https://github.com/Raufjatoi/object-drawing-app.git
+    cd object-detection-app
     ```
 
 2. Install the dependencies:
@@ -28,7 +28,7 @@ This project is a Hand Gesture Drawing App using OpenCV, Mediapipe, and Numpy. I
 1. Ensure your webcam is connected and functioning properly.
 2. Run the following command to start the application:
     ```bash
-    python app4.py
+    python app4.py or app2.py ( i suggest ya to try app2 cause app4 is new variotion of it and its still underwork)
     ```
 3. A new window will open showing the webcam feed with the drawing canvas overlay.
 4. Use your hand gestures to draw on the canvas:
